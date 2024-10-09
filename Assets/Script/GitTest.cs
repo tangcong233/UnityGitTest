@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GitTest : MonoBehaviour
 {
-    private string content = "nmsl";
+    private string content = "nmsl 2";
     void Start()
     {
         Debug.Log(content);
